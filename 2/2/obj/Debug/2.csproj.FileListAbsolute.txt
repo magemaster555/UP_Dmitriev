@@ -1,0 +1,9 @@
+D:\files\code\vs\papka\УП\2\2\bin\Debug\2.exe.config
+D:\files\code\vs\papka\УП\2\2\bin\Debug\2.exe
+D:\files\code\vs\papka\УП\2\2\bin\Debug\2.pdb
+D:\files\code\vs\papka\УП\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\files\code\vs\papka\УП\2\2\obj\Debug\_2.Form1.resources
+D:\files\code\vs\papka\УП\2\2\obj\Debug\_2.Properties.Resources.resources
+D:\files\code\vs\papka\УП\2\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\files\code\vs\papka\УП\2\2\obj\Debug\2.exe
+D:\files\code\vs\papka\УП\2\2\obj\Debug\2.pdb
